@@ -43,7 +43,7 @@ public class Constructors {
 		System.out.println("change2");
 		System.out.println("new branch");
 		System.out.println("asian guy");
-		System.out.println("new branch american guy");
+		System.out.println("new branch merged by asian guy");
 		
 	}
 	
